@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75ec7ae2-5dbc-421d-9168-2b9726f8c0ab" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="467385232">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="4" />
+          <entry key="jpeg" value="1" />
+          <entry key="jpg" value="33" />
+          <entry key="py" value="32" />
+          <entry key="txt" value="2" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="34" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="32" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="11" />
+          <entry key="py" value="2583" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="Python" value="2583" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/text_recognition/train.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/text_recognition/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/text_detection/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3026">
+              <caret line="178" selection-start-line="178" selection-end-line="178" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/temp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/text_detection/file_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="799">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
+              <folding>
+                <element signature="e#24#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/file_util.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+                <marker date="1572177806088" expanded="true" signature="79:84" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_file.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="704">
+              <caret line="88" column="23" selection-start-line="88" selection-start-column="23" selection-end-line="91" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/result.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>args.</find>
+      <find>gpu</find>
+      <find>cpu</find>
+      <find>visible</find>
+      <find>cuda</find>
+      <find>device</find>
+      <find>load</find>
+      <find>test_net</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/text_detection</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CRAFT-pytorch-master/test.py" />
+        <option value="$PROJECT_DIR$/text_detection/file_utils.py" />
+        <option value="$PROJECT_DIR$/crop_image.py" />
+        <option value="$PROJECT_DIR$/text_recognition/test.py" />
+        <option value="$PROJECT_DIR$/text_recognition/dataset.py" />
+        <option value="$PROJECT_DIR$/text_recognition/demo.py" />
+        <option value="$PROJECT_DIR$/temp.py" />
+        <option value="$PROJECT_DIR$/file_util.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/text_detection/test.py" />
+        <option value="$PROJECT_DIR$/test_file.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="capstone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="capstone" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="capstone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/text_detectio" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/text_recognition/demo_image" />
+      <recent name="$PROJECT_DIR$/text_recognition/demo_image/as" />
+      <recent name="$PROJECT_DIR$/text_detection/test" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test_file">
+    <configuration name="crop_image" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="capstone" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_util.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="capstone" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="capstone" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="capstone" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.crop_image" />
+      <item itemvalue="Python.test_file" />
+      <item itemvalue="Python.temp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test_file" />
+        <item itemvalue="Python.temp" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.crop_image" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75ec7ae2-5dbc-421d-9168-2b9726f8c0ab" name="Default Changelist" comment="" />
+      <created>1572012497211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572012497211</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.09162146" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="2" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.32959184" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.41632652" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2857143" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="2" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.33979592" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/text_detectio/.idea/misc.xml" />
+    <entry file="file://$PROJECT_DIR$/text_detectio/test.py" />
+    <entry file="file://$PROJECT_DIR$/text_detection/result/res_Screen Shot 2019-10-06 at 2.09.04 PM.jpg" />
+    <entry file="file://$PROJECT_DIR$/text_detection/result/res_KakaoTalk_Photo_2019-10-27-00-27-21.jpg" />
+    <entry file="file://$PROJECT_DIR$/text_detection/result/res_KakaoTalk_Photo_2019-10-27-00-27-21_mask.jpg" />
+    <entry file="file://$PROJECT_DIR$/text_detection/result/res_KakaoTalk_Photo_2019-10-27-00-41-24.jpg" />
+    <entry file="file://$PROJECT_DIR$/text_recognition/demo_image/132.jpg" />
+    <entry file="file://$PROJECT_DIR$/text_recognition/demo_image/28.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_recognition/demo_image/31.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_recognition/demo_image/64.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_recognition/demo_image/68.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_recognition/demo_image/116.jpg" />
+    <entry file="file://$PROJECT_DIR$/text_recognition/demo_image/118.jpg" />
+    <entry file="file://$PROJECT_DIR$/text_recognition/demo_image/123.jpg" />
+    <entry file="file://$PROJECT_DIR$/text_recognition/demo_image/124.jpg" />
+    <entry file="file://$PROJECT_DIR$/text_recognition/demo_image/130.jpg" />
+    <entry file="file://$PROJECT_DIR$/text_recognition/demo_image/133.jpg" />
+    <entry file="file://$PROJECT_DIR$/text_recognition/demo_image/126.jpg" />
+    <entry file="file://$PROJECT_DIR$/text_recognition/demo_image/0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/torch/lib/python3.6/site-packages/torch/utils/data/dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="186" selection-start-line="186" selection-end-line="186" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_recognition/dataset.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="93" column="8" lean-forward="true" selection-start-line="93" selection-start-column="8" selection-end-line="94" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_detection/test/KakaoTalk_Photo_2019-10-27-00-41-24.jpeg" />
+    <entry file="file://$PROJECT_DIR$/text_recognition/demo_image/18.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_recognition/demo_image/11.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_recognition/demo_image/10.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_detection/result/res_KakaoTalk_Photo_2019-10-27-00-41-24_mask.jpg" />
+    <entry file="file://$PROJECT_DIR$/text_detection/result/res_KakaoTalk_Photo_2019-10-27-00-41-24.txt" />
+    <entry file="file://$PROJECT_DIR$/text_detection/craft.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-860" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_recognition/demo_image/30.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/androidFlask.jpg" />
+    <entry file="file://$PROJECT_DIR$/text_recognition/demo_image/162.jpg" />
+    <entry file="file://$PROJECT_DIR$/text_recognition/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="79" column="16" selection-start-line="79" selection-start-column="16" selection-end-line="79" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_detection/craft_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="68" column="58" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_detection/test/androidFlask.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_recognition/train.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_detection/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3026">
+          <caret line="178" selection-start-line="178" selection-end-line="178" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_detection/file_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1572177806088" expanded="true" signature="79:84" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="34" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text_recognition/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="88" column="23" selection-start-line="88" selection-start-column="23" selection-end-line="91" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
